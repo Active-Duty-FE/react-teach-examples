@@ -1,0 +1,5 @@
+a.list-group-item.selected:hover,
+button.list-group-item.selected:hover,
+a.list-group-item.selected:focus,
+button.list-group-item.selected:focus { color:#fff; background-color:#ab5555; }
+.list-group-item.selected { color:#fff; background-color:#ab5555; }
